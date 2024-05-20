@@ -1,0 +1,32 @@
+{
+  "name": "mini-react",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "pnpm@9.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/plugin-transform-react-jsx": "^7.23.4",
+    "@babel/preset-env": "^7.24.5",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/First-Jim/mini-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islizeqiang/mini-react.git"
+  },
+  "homepage": "https://github.com/islizeqiang/mini-react#readme"
+}
